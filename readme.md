@@ -1,9 +1,17 @@
 
 
+# Environment
+
+visual studio 2022
+
+Windows11
+
+The main implementation code is placed in the helper folder under the project folder
+
 # Introduction
 
 A model was loaded, which includes diffuse maps, normal maps, and ambient maps.
-You can use WASD and mouse movement control to move the perspective, the spacebar can rise, and the CTRL key can sink
+You can use WASD and mouse movement control to move the perspective, the spacebar can rise, and the F key can sink
 
 
 
@@ -47,4 +55,3 @@ Added an Input class and set it as a singleton class. If other classes require t
 # Light
 
 A total of three lights have been added to the scene, one Direction Light, one Point Light, and one Spot Light. And corresponding light source calculations have been added in blinn_phone.frag.
-
