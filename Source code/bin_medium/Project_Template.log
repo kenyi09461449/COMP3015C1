@@ -1,0 +1,7 @@
+﻿  main.cpp
+G:\MyProject\others\CG COMP3015\C1\helper\light.h(44,17): warning C4305: “初始化”: 从“double”到“float”截断
+G:\MyProject\others\CG COMP3015\C1\helper\light.h(45,20): warning C4305: “初始化”: 从“double”到“float”截断
+G:\MyProject\others\CG COMP3015\C1\helper\light.h(80,17): warning C4305: “初始化”: 从“double”到“float”截断
+G:\MyProject\others\CG COMP3015\C1\helper\light.h(81,20): warning C4305: “初始化”: 从“double”到“float”截断
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Project_Template.vcxproj -> G:\MyProject\others\CG COMP3015\C1\bin\Project_Template.exe
